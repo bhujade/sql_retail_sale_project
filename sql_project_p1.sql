@@ -30,8 +30,7 @@ from retail_sales;
 select distinct category from retail_sales;
 
 -- data analysis & business key problems and solution
-
--- Q1.  write a sql query to retrieve all column for sales made on '2022-11-05' 
+** Q1.  write a sql query to retrieve all column for sales made on '2022-11-05'** 
 
 select count(*)
 from retail_sales
